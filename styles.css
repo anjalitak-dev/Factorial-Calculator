@@ -1,0 +1,94 @@
+body {
+    background: url('https://tse3.mm.bing.net/th?id=OIP.JNW4It5TTLahrmeSKFcunwHaEK&pid=Api&P=0&h=220') no-repeat center center/cover; /* Full-page background image */
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    background: #fff; /* White container background */
+    padding: 40px 50px;
+    border-radius: 12px; /* Rounded corners */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 36px;
+    color: #12161b;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-label {
+    font-size: 18px;
+    color: black;
+}
+
+.form-control, .form-select {
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 8px; /* Rounded input edges */
+    border: 2px solid #100404;
+    transition: all 0.3s ease; /* Smooth focus transitions */
+}
+
+.form-select option:hover {
+    color: #fff; 
+    background-color: #000; /* Highlighted option background */
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: #3e4041;
+    box-shadow: 0 0 5px rgba(27, 28, 28, 0.5);
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn:hover {
+    background-color: #000;
+    color: white;
+
+    transform: scale(1.05); /* Slight scaling on hover */
+}
+
+.error {
+    color: #e74c3c; /* Red error text */
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.result-text {
+    font-size: 20px;
+    font-weight: 600;
+    color: #27ae60; /* Green success text */
+    text-align: center;
+}
+
+.method-used {
+    font-size: 20px;
+    color: #3498db; /* Blue text */
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+    color: #7f8c8d;
+    margin-top: 40px;
+}
