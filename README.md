@@ -6,9 +6,9 @@ Whether you're a beginner learning JavaScript or someone looking for a quick fac
 
 ---
 
-## 🚀 Live Demo
+## 🚀 🚀 Live Demo
 
-> 🔗 [Live Site Link](#https://anjalitak-dev.github.io/Factorial-Calculator/) 
+🔗 [Click here to try the app!](https://anjalitak-dev.github.io/Factorial-Calculator/)
 
 ---
 
