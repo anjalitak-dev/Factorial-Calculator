@@ -1,19 +1,42 @@
-# Factorial Calculator
+# 🧮 Factorial Calculator
 
-This is a simple web-based **Factorial Calculator** that allows users to compute the factorial of a given positive integer using two methods: **Iterative** and **Recursive**. The project is built using HTML, CSS, JavaScript, and Bootstrap for a responsive and interactive UI.
+The **Factorial Calculator** is a web-based tool designed to compute the factorial of a given positive integer using **two distinct methods**: **Iterative** and **Recursive**. This project demonstrates fundamental programming concepts in JavaScript with a clean and responsive user interface created using HTML, CSS, and Bootstrap.
 
-## Features
+Whether you're a beginner learning JavaScript or someone looking for a quick factorial computation tool, this app is a great example of combining logic with user-friendly design.
 
-- **User Input:** Allows users to input a positive integer.
-- **Method Selection:** Users can choose between two methods for calculating the factorial: Iterative or Recursive.
-- **Result Display:** Displays the factorial result along with the method used.
-- **Error Handling:** Provides feedback if the user inputs invalid or negative numbers.
+---
 
-## Technologies Used
+## 🚀 Live Demo
 
-- **HTML5** for the structure and content of the page.
-- **CSS3** for styling the application.
-- **JavaScript** for handling the calculation logic.
-- **Bootstrap** for responsive design and UI elements.
+> 🔗 [Live Site Link](#https://anjalitak-dev.github.io/Factorial-Calculator/) 
+
+---
+
+## ✨ Features
+
+- 🔢 **User Input**  
+  Accepts any positive whole number (e.g., 5, 10, 20) from the user.
+
+- 🔁 **Method Selection**  
+  Users can choose between:
+  - **Iterative Method**: Uses a loop to calculate the factorial.
+  - **Recursive Method**: Uses a recursive function call to compute the factorial.
+
+- 🧾 **Result Display**  
+  Instantly displays the result along with the chosen method used.
+
+- ❗ **Input Validation & Error Handling**  
+  Prevents invalid inputs such as negative numbers, decimal values, non-numeric entries, and zero with proper feedback messages.
+
+- 📱 **Responsive UI**  
+  Built with **Bootstrap** for a mobile-friendly and visually appealing experience.
+
+---
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/5ea4286a-5451-47ac-8032-0415ec381ffd)
+![image](https://github.com/user-attachments/assets/c4febedb-67c7-4728-9ba5-52884cc4e595)
+
+
 
 
